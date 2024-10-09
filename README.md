@@ -8,10 +8,12 @@ Reputable Tools:
 - [7Zip](https://www.7-zip.org/download.html)
 
 ## Table of Contents
-- Exporting Google Data
-    - How To Export Data
-- Understanding Google Meets Exported Data
-    - How to understand Google Meets data 
+- [Exporting Google Data](#exporting-google-data)
+    - [How To Export Data](#how-to-export-data)
+- [How To Open Google Meeting Data](#opening-google-meetings-data)
+    - [How to get to Google Meets data](#how-to-get-to-google-meets-data)
+- [Find your Specific Google Meeting Code](#find-your-specific-google-meeting-code)
+- [Contact](#contact)
 
 ## Exporting Google data
 
@@ -74,7 +76,7 @@ Once the data is successfully exported, you will receive an email from Google Ta
 5. Once you open the file name conference_history_records.csv(File), you will see a list of encrypted code and text.
 What we will be focusing on is the Column named **Meeting Code**, **Start Time**, **End Time**, and **Duration**.
 
-### Video Tutorial
+Video Tutorial:
 
 https://github.com/user-attachments/assets/a9f6deec-d872-43ea-922c-6374dca5d681
 
@@ -92,9 +94,9 @@ Video Tutorial:
 
 https://github.com/user-attachments/assets/20c6812a-1043-4288-ba2f-1230060a5d22
 
-## FAQ
+## Contact
 
-For any additional questions Email: brandon.chin@jpihealthcare.com
+For any additional questions Email: brandon.chin@jpihealthcare.com and cc chitangb.chin@gmail.com
 
 
 
